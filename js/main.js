@@ -47,7 +47,7 @@
 			slideshowSpeed: 5000,
 			directionNav: false,
 			controlNav: true,
-			smoothHeight: true,
+			smoothHeight: false,
 			reverse: true
 	  	});
 	}
