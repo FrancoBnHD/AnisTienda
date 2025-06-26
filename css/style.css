@@ -1389,4 +1389,8 @@ p {
 /*# sourceMappingURL=style.css.map */
 .anis-title {
   font-family: 'Lancea', sans-serif !important;
+
+}
+.anis-title img{
+  max-width: 90%;
 }
