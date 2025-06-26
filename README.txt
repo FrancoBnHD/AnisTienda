@@ -1,13 +1,11 @@
 
-TITLE: 
-Foodee - One Page Responsive Free HTML5 template
+Titulo: 
+Anis tienda natural
 
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
+Desarrollado por Franco Duarte
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+
 
 
 CREDITS:
